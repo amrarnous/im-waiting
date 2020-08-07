@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <filter id="Ellipse_2" x="0" y="0" width="70" height="70" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="camera" transform="translate(-148 -300)">
+    <g transform="matrix(1, 0, 0, 1, 148, 300)" filter="url(#Ellipse_2)">
+      <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(9 5)" fill="#fff" stroke="#e21956" stroke-width="3">
+        <circle cx="26" cy="26" r="26" stroke="none"/>
+        <circle cx="26" cy="26" r="24.5" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_1044" data-name="Path 1044" d="M25.446,7.381a1.2,1.2,0,0,0-1.2,0L20.008,9.469A3.6,3.6,0,0,0,16.406,6H5.6A3.6,3.6,0,0,0,2,9.6v7.2a3.6,3.6,0,0,0,3.6,3.6H16.4A3.6,3.6,0,0,0,20,16.931l4.274,2.137A1.189,1.189,0,0,0,26,18V8.4a1.2,1.2,0,0,0-.557-1.019ZM17.607,16.8a1.2,1.2,0,0,1-1.2,1.2H5.6a1.2,1.2,0,0,1-1.2-1.2V9.6A1.2,1.2,0,0,1,5.6,8.4H16.4a1.2,1.2,0,0,1,1.2,1.2Zm6-.744-3.6-1.8V12.147l3.6-1.8Z" transform="translate(169 318)" fill="#e21956"/>
+  </g>
+</svg>

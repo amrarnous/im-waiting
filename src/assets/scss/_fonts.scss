@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "loew-next";
+  src: url("../../assets/fonts/Loew Next Arabic.otf");
+}
+@font-face {
+  font-family: "loew-next-black";
+  src: url("../../assets/fonts/Loew Next Arabic Black.otf");
+}
+@font-face {
+  font-family: "loew-next-bold";
+  src: url("../../assets/fonts/Loew Next Arabic Bold.otf");
+}
+@font-face {
+  font-family: "loew-next-extra-bold";
+  src: url("../../assets/fonts/Loew Next Arabic ExtraBold.otf");
+}
+@font-face {
+  font-family: "loew-next-heavy";
+  src: url("../../assets/fonts/Loew Next Arabic Heavy.otf");
+}
+@font-face {
+  font-family: "loew-next-light";
+  src: url("../../assets/fonts/Loew Next Arabic Light.otf");
+}
+@font-face {
+  font-family: "loew-next-medium";
+  src: url("../../assets/fonts/Loew Next Arabic Medium.otf");
+}
+@font-face {
+  font-family: "loew-next-thin";
+  src: url("../../assets/fonts/Loew Next Arabic Thin.otf");
+}
+$font-regular: "loew-next";
+$font-bold: "loew-next-bold";
+$font-extra-bold: "loew-next-extra-bold";
+$font-heavy: "loew-next-heavy";
+$font-light: "loew-next-light";
+$font-medium: "loew-next-medium";
+$font-thin: "loew-next-thin";
